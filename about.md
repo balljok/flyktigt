@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About
 
-### More Information
+Chances are, I am very much like you, just completely different. You most likey ended up here because we have something in common - some shared interest or point of view. 
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Best regards,
+Me.
