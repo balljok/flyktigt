@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: Om
 permalink: /about/
 ---
 
-Chances are, I am very much like you, just completely different. You most likey ended up here because we have something in common - some shared interest or point of view. 
+Vi är nog ganska lika du och jag. Antagligen hamnade du här för att vi delar något intresse eller någon livsåskådning. Eller så är vi helt olika. Mest troligt är att vi är både och.
 
-### Interests
+### Intressen
 
-I like to use my mind - whether it is to daydream, contemplate or do some actual problem-solving. I also enjoy making things with words or notes, writing and making music. Sometimes I knit or learn something new. I try to exercise regularily by running or working out. Mostly I just love existing.
+Jag tycker om att låta hjärnan irra fritt; dagdrömma, begrunda och lösa problem. Jag tycker om att skapa saker med ord. Eller toner. Ibland stickar jag lite. Oftare springer jag eller tränar. Mest av allt älskar jag min blotta existens. Ingen är jagare än jag.
 
-Best regards,
-Me.
+Vänligen,
+Jag.
